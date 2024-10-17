@@ -12,7 +12,7 @@ headers = {
 }
 
 # Time interval constant in seconds (set to 20 seconds)
-TIME_INTERVAL = 20  # Change this value to adjust the time interval
+TIME_INTERVAL = 1200  # Change this value to adjust the time interval
 
 previous_number = None  # To store the previous number of properties
 bot_token = '7890942178:AAGbG0knGeJH7VFYvdzHwvUgwQ18wWO9TJM'  # Replace with your bot token
